@@ -15,10 +15,15 @@ I live with my younger sister and my cat, Tangerina, who is less of a pet and mo
 ## Projects (all of them are a work in progress... but what isn't?)
 
 - **[Movie Dispenser Twitter-Bot](https://github.com/AChareun/movie-twbot):** Twitter bot that replies to mentions with a random movie recommendation
+- **[CRUD Clubs](https://github.com/AChareun/crud-clubes):** CRUD operations app made with express and handlebars
 - **[Pokedex](https://achareun.github.io/PokeDex/):** UI to visualize information from pokeapi.co
 - **[Meme-o-Test](https://achareun.github.io/meme-o-test/):** A memotest game for r/argentina programa
 - **[Exchange-Rates](https://achareun.github.io/tipos-de-cambio/#):** UI to visualize information from exchangeratesapi.io
 - **[Simon-Says](https://achareun.github.io/simon-says/):** Simon-Says game for r/argentina programa
+
+## Certifications
+
+- **[freeCodeCamp Responsive Web Design Certification](https://www.freecodecamp.org/certification/achareun/responsive-web-design)**
 
 ## Contact
 
