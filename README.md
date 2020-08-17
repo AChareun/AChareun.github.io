@@ -1,4 +1,4 @@
-# AChareun - Frontend Developer
+# AChareun - Junior Fullstack Web Developer
 
 Hi! I'm a 24 years old, former psychology student from Argentina, who is now following a career as a web developer. 
 
