@@ -1,4 +1,4 @@
-# AChareun - Junior Web Developer
+# AChareun - Web Developer
 
 Hi! I'm a 25 years old, former psychology student from Argentina, who is now following a career as a developer.
 
@@ -28,6 +28,7 @@ I have a cat, Tangerina, who is less of a pet and more of an extra roommate that
 ## Certifications
 
 - **[freeCodeCamp Responsive Web Design Certification](https://www.freecodecamp.org/certification/achareun/responsive-web-design)**
+- **[freeCodeCamp JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/achareun/javascript-algorithms-and-data-structures)**
 
 ## Contact
 
