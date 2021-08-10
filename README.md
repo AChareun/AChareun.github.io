@@ -2,12 +2,6 @@
 
 Hi! I'm a 25 years old, former psychology student from Argentina, who is now following a career as a developer.
 
-I'm open to job offers/opportunities and still fully committed to my formation: mainly following the fullstack web-development course of **[r/argentinaprograma](https://argentinaprograma.com/):** but also complementing it with other minor courses and sources.
-
-Nowadays I'm living in Urdinarrain, Entre Ríos, but I'm willing to relocate to CABA.
-
-## More About Me
-
 I'm kind of a compulsive googler so I figured out I could be a decent developer. I also love to learn and read about new and interesting things so documentation is always received with wide open arms. I don't have a Computer Science background or anything like that, so I'm always trying to 'catch up'.
 
 I love playing videogames and I'm an esports enthusiast (mostly DOTA and AoE); music is my companion in almost all I do during the day, although I'm pretty bad at everything related to it; and I really enjoy watching tv series and movies but probably didn't see that classic one you consider essential.
@@ -32,7 +26,7 @@ I have a cat, Tangerina, who is less of a pet and more of an extra roommate that
 
 ## Contact
 
-This is not intended to be a resume. If you're a recruiter or just want to take a look at it, please reach to me at any of the options below.
+If you want to get in touch with me please do so at any of the options below.
 
 - **[GitHub](https://github.com/achareun)**
 - **[LinkedIn](https://www.linkedin.com/in/achareun/)**
